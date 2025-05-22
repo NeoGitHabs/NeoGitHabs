@@ -1,49 +1,51 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# EXAMPLE!!!!
 
-###
+# Hi 👋, I'm Neo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+A Frontend AI Developer
 
-###
+## 🚀 Work
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+🔭 **Currently working on**: [project name](https://examole-project.com/)  
+👯 **Looking to collaborate on**: [project name](https://examole-project.com/)  
+🤝 **Need help with**: [project name](https://examole-project.com/)  
+🌱 **Currently learning**: [framework, courses]  
+💬 **Ask me about**: Python, Django, PostgreSQL  
+📫 **Reach me at**: example@gmail.com  
+👨‍💻 **My projects**: [examole-portfolio.com](https://examole-portfolio.com/)  
+📄 **My resume**: [examole-resume.com](https://examole-resume.com/)  
+⚡ **Fun fact**: I'm a junior developer!
 
-###
+## 🛠 Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Programming Languages**: Python, JS, Dart  
+**Frontend Development**: HTML, CSS  
+**Backend Development**: NGINX  
+**Mobile App Development**: Flutter  
+**AI/ML**: TensorFlow, OpenCV, PyTorch, Scikit-learn, Seaborn  
+**Database**: PostgreSQL, SQLAlchemy, Oracle, Redis, MongoDB  
+**DevOps**: Docker, Bash, AWS, Azure, GCP  
+**Framework**: Django, DRF (Django Rest Framework)  
+**Software**: Postman, Photoshop, Figma  
+**Other**: Linux, Ubuntu, Git, GitHub
 
-###
+## 🌐 Social
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- **GitHub**: [github.com/](https://github.com/)  
+- **Twitter/X**: [twitter.com/](https://twitter.com/)  
+- **LinkedIn**: [linkedin.com/](https://linkedin.com/)  
+- **Stack Overflow**: [stack-overflow.com/](https://stack-overflow.com/)  
+- **YouTube**: [youtube.com/](https://youtube.com/)  
+- **Facebook**: [facebook.com/](https://facebook.com/)
 
-###
+## Add-ons
 
-<br clear="both">
+### GitHub Stats
+![Neo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### Project Media
+![Project Screenshot](https://google.com)
+[Watch Project Video]([https://youtube.com/your-project-video](https://www.bing.com/videos/riverview/relatedvideo?q=project&&mid=E59EC86B3DED142CC53EE59EC86B3DED142CC53E&FORM=VCGVRP))
 
-###
+### ☕ Buy me a coffee
+Support my work: [donation-alerts.com](https://donation-alerts.com/)

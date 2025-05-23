@@ -18,9 +18,9 @@ A Frontend AI Developer
 
 ## 🛠 Skills
 
-**Programming Languages**: Python, JS, Dart  
-**Frontend Development**: HTML, CSS  
-**Backend Development**: NGINX  
+**Prog. Lang.**: Python, JS, Dart  
+**Frontend**: HTML, CSS  
+**Backend**: NGINX  
 **Mobile App Development**: Flutter  
 **AI/ML**: TensorFlow, OpenCV, PyTorch, Scikit-learn, Seaborn  
 **Database**: PostgreSQL, SQLAlchemy, Oracle, Redis, MongoDB  

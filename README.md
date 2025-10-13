@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on [TravelKG]([https://github.com/SalahidinAI/TravelKG/](https://www.google.com/))
 - 👨‍💻 All of my projects are available on [GitHub]([https://github.com/KadyrovErjan/](https://www.google.com/))
 - 💬 Ask me about **Python, Django, FastAPI**
-- 📫 Reach me at: **kadyroverjan007@gmail.com**
+- 📫 Reach me at: **google@gmail.com**
 - 📄 Check out my [Resume]([https://www.canva.com/design/DAGtGriTqdI/66DTVS0J4Z4glKZV0TPDRg/view?utm_content=DAGtGriTqdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks](https://www.google.com/))
 
 ---

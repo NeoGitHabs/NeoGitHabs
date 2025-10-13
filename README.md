@@ -2,27 +2,27 @@
 <h3 align="center">💻 A passionate Backend Developer from Kyrgyzstan</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kadyroverjan&theme=onedark" alt="Trophies">
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://www.google.com/)">
+    <img src="[https://github-profile-trophy.vercel.app/?username=kadyroverjan](https://www.google.com/)&theme=onedark" alt="Trophies">
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on [Course Project](https://github.com/KadyrovErjan/Logo)
+- 🔭 I’m currently working on [Course Project]([https://github.com/KadyrovErjan/Logo](https://www.google.com/))
 - 🌱 Currently learning **Motion Web**
-- 🤝 I’m looking to collaborate on [TravelKG](https://github.com/SalahidinAI/TravelKG/)
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/KadyrovErjan/)
+- 🤝 I’m looking to collaborate on [TravelKG]([https://github.com/SalahidinAI/TravelKG/](https://www.google.com/))
+- 👨‍💻 All of my projects are available on [GitHub]([https://github.com/KadyrovErjan/](https://www.google.com/))
 - 💬 Ask me about **Python, Django, FastAPI**
 - 📫 Reach me at: **kadyroverjan007@gmail.com**
-- 📄 Check out my [Resume](https://www.canva.com/design/DAGtGriTqdI/66DTVS0J4Z4glKZV0TPDRg/view?utm_content=DAGtGriTqdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks)
+- 📄 Check out my [Resume]([https://www.canva.com/design/DAGtGriTqdI/66DTVS0J4Z4glKZV0TPDRg/view?utm_content=DAGtGriTqdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks](https://www.google.com/))
 
 ---
 
 ### 📲 Connect with me:
 <p align="left">
-  <a href="https://instagram.com/erjankadyrov2006" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="[https://instagram.com/erjankadyrov2006](https://www.google.com/)" target="_blank">
+    <img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?](https://www.google.com/)&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -50,15 +50,15 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadyroverjan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=kadyroverjan](https://www.google.com/)&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadyroverjan&show_icons=true&locale=en&theme=radical" alt="Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=kadyroverjan](https://www.google.com/)&show_icons=true&locale=en&theme=radical" alt="Stats" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/KadyrovErjan/KadyrovErjan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KadyrovErjan/NeoGitHabs/blob/output/github-contribution-grid-snake.svg)

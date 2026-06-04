@@ -1,8 +1,8 @@
 ```python
-class MLDeveloper:
+class ML_Developer:
     name        = "Neo"
     experience  = "24 months"
-    focus       = "Backend + ML Engineering"
+    focus       = "ML Engineering"
     interest    = ["Research Engineer", "Post-Training & Reasoning", "Alignment & AI Safety"]
     principles  = ["DRY", "KISS", "SOLID"]
     goal        = "AGI Engineer"

@@ -23,16 +23,16 @@ class ML_Developer:
 
     learning = {
         "transformers_core_from_scratch": ["Self-Attention, Multi-Head Attention", "Positional Encoding", "Encoder / Decoder архитектура", "Реализовать GPT-mini с нуля"], # 1. ОСНОВА
-        "transformers_tools": ["HuggingFace Transformers", "PEFT / LoRA", "Tokenizers"], # 2. ИНСТРУМЕНТЫ — теперь понимаешь что под капотом
-        "llm_entry": ["OpenAI API", "Claude SDK", "LangChain"], # 3. LLM ВХОД — подключение к реальным моделям
-        "rag": ["Qdrant", "pgvector", "Hybrid Search", "BM25"], # 4. RAG — хранение и поиск знаний
-        "agents": ["Tool Calling", "LangGraph", "MCP"], # 5. АГЕНТЫ — LLM начинает действовать
-        "evaluation": ["LangSmith", "Ragas", "TruLens"],  # 6. ОЦЕНКА — без этого не знаешь работает ли система
-        "async_infra": ["RabbitMQ", "Celery", "Airflow"], # 7. ОЧЕРЕДЬ И ФОНОВЫЕ ЗАДАЧИ
-        "mlops": ["MLflow", "Drift Monitoring"], # 8. MLOPS — трекинг экспериментов и мониторинг дрейфа
-        "optimization": ["vLLM", "AWQ / GPTQ / GGUF"], # 9. ОПТИМИЗАЦИЯ — когда модель уже работает
-        "observability": ["OpenTelemetry", "Prometheus + Grafana"], # 10. НАБЛЮДАЕМОСТЬ — production-готовность
-        "security": ["JWT глубоко", "OAuth2 PKCE", "Rate Limiting паттерны"], # 11. БЕЗОПАСНОСТЬ — усиление того что уже знаешь
+        "transformers_tools": ["HuggingFace Transformers", "PEFT / LoRA", "Tokenizers"],                                                                     # 2. ИНСТРУМЕНТЫ — теперь понимаешь что под капотом
+        "llm_entry": ["OpenAI API", "Claude SDK", "LangChain"],                                                                                              # 3. LLM ВХОД — подключение к реальным моделям
+        "rag": ["Qdrant", "pgvector", "Hybrid Search", "BM25"],                                                                                              # 4. RAG — хранение и поиск знаний
+        "agents": ["Tool Calling", "LangGraph", "MCP"],                                                                                                      # 5. АГЕНТЫ — LLM начинает действовать
+        "evaluation": ["LangSmith", "Ragas", "TruLens"],                                                                                                     # 6. ОЦЕНКА — без этого не знаешь работает ли система
+        "async_infra": ["RabbitMQ", "Celery", "Airflow"],                                                                                                    # 7. ОЧЕРЕДЬ И ФОНОВЫЕ ЗАДАЧИ
+        "mlops": ["MLflow", "Drift Monitoring"],                                                                                                             # 8. MLOPS — трекинг экспериментов и мониторинг дрейфа
+        "optimization": ["vLLM", "AWQ / GPTQ / GGUF"],                                                                                                       # 9. ОПТИМИЗАЦИЯ — когда модель уже работает
+        "observability": ["OpenTelemetry", "Prometheus + Grafana"],                                                                                          # 10. НАБЛЮДАЕМОСТЬ — production-готовность
+        "security": ["JWT глубоко", "OAuth2 PKCE", "Rate Limiting паттерны"],                                                                                # 11. БЕЗОПАСНОСТЬ — усиление того что уже знаешь
     }
 ```
 <img width="1371" height="736" alt="Снимок экрана 2026-06-12 201132" src="https://github.com/user-attachments/assets/3c79dc36-82c9-4a6c-81de-0a28b6e29f60" />

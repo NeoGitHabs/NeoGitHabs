@@ -11,7 +11,6 @@ class ML_Developer:
     goal        = "AGI Engineer"
 
     stack = {
-        "principles":   ["DRY", "KISS", "SOLID"],
         "backend":      ["Python", "FastAPI", "Django", "Django Templates", "DRF", "Django Channels", "Pydantic", "SQLAlchemy", "Alembic", "sqladmin"],
         "ml_ai":        ["PyTorch", "Scikit-learn", "OpenCV", "YOLO", "NumPy", "Pandas", "Matplotlib", "Seaborn", "RoboFlow"],
         "platforms":    ["Google Colab", "Kaggle", "Hugging Face", "n8n"],
